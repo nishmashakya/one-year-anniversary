@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 12 64 52" width="300" height="200" aria-hidden="true">
+  <title>Folder</title>
+  <path d="M2 18c0-1.1.9-2 2-2h16l6 6h36c1.1 0 2 .9 2 2v28c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V18z" fill="#E2C7E3" stroke="#c98bcb" stroke-width="1" stroke-linejoin="round"/>
+  <!-- removed stray decorative path to avoid an external line -->
+</svg>
